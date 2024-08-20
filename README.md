@@ -49,7 +49,7 @@ Este repositório contém os projetos de circuitos digitais desenvolvidos durant
 - **Arquivos:** Código Verilog, projeto Quartus, resultados de simulação.
 
 ## Contribuidores
-- [**Diego Nascimento de Oliveira** ]([https://github.com/diegonoliveira](https://github.com/diegonascimento2023))
+- [**Diego Nascimento de Oliveira**](https://github.com/diegonascimento2023)
 - [**Wiliane da Silva Lima** ](https://github.com/diegonoliveira)
 
 
